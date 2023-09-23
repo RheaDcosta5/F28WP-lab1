@@ -144,6 +144,16 @@ main h3 {
 
 .cta-container h2{
     font-size: 3rem;
+    font-style: oblique;
+    text-shadow: 1.5px 1.5px black;
+
+}
+
+.cta-container p{
+    font-style: italic;
+    font-size: 1.3rem;
+    text-shadow: 1px 1px darkgrey;
+    
 }
 
 .cta-button {
